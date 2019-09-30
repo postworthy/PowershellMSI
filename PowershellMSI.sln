@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PowershellMSI", "PowershellMSI\PowershellMSI.vdproj", "{D650F8B8-70CF-4699-8A9D-A2BC71E5B22A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D650F8B8-70CF-4699-8A9D-A2BC71E5B22A}.Debug|Default.ActiveCfg = Debug
+		{D650F8B8-70CF-4699-8A9D-A2BC71E5B22A}.Debug|Default.Build.0 = Debug
+		{D650F8B8-70CF-4699-8A9D-A2BC71E5B22A}.Release|Default.ActiveCfg = Release
+		{D650F8B8-70CF-4699-8A9D-A2BC71E5B22A}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15E4298A-40AD-40DC-9152-E1F12F5C6DA4}
+	EndGlobalSection
+EndGlobal
